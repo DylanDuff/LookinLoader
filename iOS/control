@@ -1,0 +1,9 @@
+Package: com.dylanduff.lookinloader
+Name: LookinLoader
+Depends: mobilesubstrate, preferenceloader, applist
+Version: 1.1
+Architecture: iphoneos-arm
+Description: An awesome Lookin Loader for iOS8~iOS13!
+Maintainer: Dylan Duff
+Author: creantan, P.Y.G, MTAC8, Dylan Duff
+Section: Tweaks
